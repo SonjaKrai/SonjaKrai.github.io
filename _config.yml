@@ -12,9 +12,9 @@ title                    : "Sonja Kraiczy"
 title_separator          : "-"
 name                     : &name "Sonja Kraiczy"
 description              : &description "personal description"
-url                      : https://sonjakrai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://SonjaKrai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "SonjakKai/SonjaKrai.github.io"
+repository               : "SonjaKrai/SonjaKrai.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,13 +22,13 @@ repository               : "SonjakKai/SonjaKrai.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Sonja Kraoczy"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Oxford University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "Sonja.Kraiczy@cs.ox.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
