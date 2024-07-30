@@ -1,3 +1,33 @@
+- title: 'A Lower Bound for Local Search PAV'
+  citation: '*ESA 2024*'
+  authors: 'Sonja Kraiczy and [Edith Elkind](https://www.cs.ox.ac.uk/people/edith.elkind/)'
+  link: '//comsoc-community.org/assets/proceedings/comsoc-2023/SonjaKraiczy.pdf'
+
+- title: 'Stability in Random Hedonic Games'
+  citation: '*EC 2024*'
+  authors: 'Sonja Kraiczy and [Edith Elkind](https://www.cs.ox.ac.uk/people/edith.elkind/)'
+  link: '//arxiv.org/pdf/2406.01373'
+
+- title: 'Properties of the Mallows Model Depending on the Number of Alternatives: A Warning for an Experimentalist'
+  citation: '*ICML 2023*'
+  authors: '[Niclas, Boehmer] (https://sites.google.com/view/niclas-boehmer/home), [Piotr Faliszewski] (https://home.agh.edu.pl/~faliszew/) and Sonja Kraiczy'
+  link: '//proceedings.mlr.press/v202/boehmer23b/boehmer23b.pdf
+
+- title: 'An Adaptive and verifiably Proportional Method for Participatory Budgeting'
+  citation: '*WINE 2023*'
+  authors: 'Sonja Kraiczy and [Edith Elkind](https://www.cs.ox.ac.uk/people/edith.elkind/)'
+  link: '//arxiv.org/pdf/2310.10215'
+  
+- title: 'Exact Learning of Preference Structure: Single-peaked Preferences and Beyond'
+  citation: '*ICML 2022*'
+  authors: 'Sonja Kraiczy and [Edith Elkind](https://www.cs.ox.ac.uk/people/edith.elkind/)'
+  link: '://proceedings.mlr.press/v162/kraiczy22a/kraiczy22a.pdf'
+
+- title: 'Fairness in Temporal Slot Assignment'
+  citation: '*SAGT 2022*'
+  authors: '[Edith Elkind](https://www.cs.ox.ac.uk/people/edith.elkind/), Sonja Kraiczy and [Nicholas Teh] (https://www.cs.ox.ac.uk/people/nicholas.teh/)'
+  link: '//archive.illc.uva.nl/COMSOC/proceedings/comsoc-2023/NicholasTeh.pdf'
+
 - title: 'Explaining Preferences by Multiple Patterns in Voters’ Behavior'
   citation: '*IJCAI 2022*'
   authors: 'Sonja Kraiczy and [Edith Elkind](https://www.cs.ox.ac.uk/people/edith.elkind/)'
@@ -6,7 +36,7 @@
 - title: 'Solving graph homomorphism and subgraph isomorphism problems faster through clique neighbourhood constraints'
   citation: '*IJCAI 2021*'
   authors: 'Sonja Kraiczy and [Ciaran McCreesh](https://ciaranm.github.io/)'
-  link: '//google.com'
+  link: '//ciaranm.github.io/papers/ijcai2021-clique-constraints.pdf'
   
 - title: 'On Weakly and Strongly Popular Rankings'
   citation: '*AAMAS 2021*'
