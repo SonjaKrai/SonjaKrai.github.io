@@ -14,6 +14,6 @@ author_profile: true
 ---
 <ul>
 {% for post in site.data.publications %}
-{% include archive-single-publication.html %}
+{% include archive-single-pub.html %}
 {% endfor %}
 </ul>
